@@ -1,0 +1,17 @@
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\TestIpVk.exe
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\TestIpVk.deps.json
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\TestIpVk.runtimeconfig.json
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\TestIpVk.dll
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\TestIpVk.pdb
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.csproj.AssemblyReference.cache
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.AssemblyInfoInputs.cache
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.AssemblyInfo.cs
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.csproj.CoreCompileInputs.cache
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.csproj.Up2Date
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.dll
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\refint\TestIpVk.dll
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.pdb
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\TestIpVk.genruntimeconfig.cache
+C:\Users\Neru\Desktop\test_ip_vk\TestIpVk\obj\Debug\net8.0\ref\TestIpVk.dll

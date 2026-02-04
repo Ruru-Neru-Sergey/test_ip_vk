@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDYbbAR6nAo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neru\\Desktop\\test_ip_vk\\TestIpVk\\TestIpVk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neru\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
